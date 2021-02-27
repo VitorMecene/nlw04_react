@@ -1,3 +1,8 @@
-CREAT
+CREAT WITH REACT
 $ yarn global add create-react-app
 $ create-react-app moveit --template=typescript
+
+
+CREAT WITH NEXT
+$ yarn global add create-next-app
+$ create-next-app moveit-next
